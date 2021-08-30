@@ -19,6 +19,7 @@
  <a href="https://www.linkedin.com/in/jo%C3%A3o-nelson-lima-6250a320/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
    
-    
+ ![Snake animation](https://github.com/NelsonLima07/NelsonLima07/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
 
